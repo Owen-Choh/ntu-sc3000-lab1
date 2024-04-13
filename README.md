@@ -1,9 +1,13 @@
 # SC3000 AI Lab project
 For the lab project in the Aritifical Intelligence module (SC3000), we had to create a reinforment learning agent to balance a pole on a cart.
 
-Multiple model parameter files are included in case of errors when setting up a local environment.
+# About
 
-The project is done using Google colab but I have also included set up instructions if you prefer to [install locally](#to-set-up-a-local-environment).
+For the task, I implemented a **Deep Q-Network agent** using tensorflow [here](https://github.com/Owen-Choh/ntu-sc3000-lab1/blob/main/cartpole_assignment.ipynb).
+
+The project is done on Google colab but I have also included set up instructions if you prefer to [install locally](#to-set-up-a-local-environment).
+
+Multiple model parameter files are included in case it fails to load in a local environment.
 
 ## Final result
 https://github.com/Owen-Choh/ntu-sc3000-lab1/assets/94509487/604c2128-91ed-4fad-ba87-e46e41e1cf3c
